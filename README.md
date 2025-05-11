@@ -32,3 +32,4 @@ To run this project, you need Python installed on your machine. The following li
 - **tkinter**
 - **json**
 - **os**
+![Screenshot of the Hotel Booking manager](https://github.com/RichoAye/Hotel-Room-Booking-Manager/blob/main/out%20put%20of%20hotel%20booking%20manager.png?raw=true)
